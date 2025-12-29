@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Geography/Landmarks/The Borderlands/Storm-Fang Mountains.md",
+                "file": "changelog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storm-Fang Mountains"
+              "title": "changelog"
             }
           }
         ]
@@ -172,9 +172,29 @@
   },
   "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "03 Territories/Unnamed 3",
-    "03 Territories/Unnamed 2",
-    "03 Territories/Unnamed 1",
+    "03 Territories/Republic of Dravenor/index.md",
+    "changelog.md",
+    "04 Cosmology & Magic/index.md",
+    "02 Geography/index.md",
+    "index.md",
+    "01 Meta & Rules/index.md",
+    "02 Geography/Bodies of Water/index.md",
+    "03 Territories/Basimati/index.md",
+    "03 Territories/Vasharr/Towns & Cities",
+    "03 Territories/Territories of Talori/index.md",
+    "03 Territories/Vasharr/index.md",
+    "03 Territories/Verdanthal/index.md",
+    "03 Territories/High Dominion of Varkesh/index.md",
+    "03 Territories/Lodestar Island/index.md",
+    "03 Territories/Nib/index.md",
+    "03 Territories/Forgotten Archipelago/index.md",
+    "03 Territories/Kingdom of Sunstone/index.md",
+    "03 Territories/Mino Isles/index.md",
+    "03 Territories/Vorynthian Confederacy/index.md",
+    "02 Geography/Landmarks/The Borderlands/Storm-Fang Mountains.md",
+    "03 Territories/Basimati",
+    "03 Territories/Territories of Talori",
+    "03 Territories/Vasharr",
     "02 Geography/Landmarks/The Borderlands/Niben Lowlands.md",
     "02 Geography/Landmarks/The Borderlands/Untitled.md",
     "03 Territories/Nib",
@@ -182,31 +202,11 @@
     "02 Geography/Landmarks/The Borderlands/Barrier of Gundyr.md",
     "02 Geography/Landmarks/The Borderlands/Varkesian Ridge.md",
     "02 Geography/Landmarks/The Borderlands/The Wastes.md",
-    "02 Geography/Landmarks/The Borderlands/Storm-Fang Mountains.md",
     "02 Geography/Landmarks/The Borderlands/index.md",
-    "02 Geography/Landmarks/The Borderlands/Cinder Plateau.md",
-    "03 Territories/Tails End.md",
-    "02 Geography/Bodies of Water/index.md",
-    "02 Geography/Bodies of Water/Goldbreeze Coast.md",
-    "02 Geography/Bodies of Water/Meridian Sea.md",
-    "03 Territories/The Forgotten Archipelago/The Forgotten Archipelago.md",
-    "02 Geography/Bodies of Water/Blackwater Bay.md",
-    "03 Territories/Verdanthal/Verdanthal.md",
-    "03 Territories/Lodestar Island/Lodestar Island.md",
     "03 Territories/Verdanthal",
     "03 Territories/Lodestar Island",
     "02 Geography/Landmarks/The Borderlands",
-    "02 Geography/Bodies of Water/Far Waters.md",
-    "02 Geography/Bodies of Water/Varkesian Bay.md",
-    "03 Territories/The Republic of Dravenor/The Republic of Dravenor.md",
-    "03 Territories/The Vorynthian Confederacy/The Vorynthian Confederacy.md",
-    "03 Territories/The Forgotten Archipelago",
-    "03 Territories/The Kingdom of Sunstone/Towns & Cities/Morgrad.md",
-    "03 Territories/The Vorynthian Confederacy",
-    "03 Territories/The Republic of Dravenor",
-    "04 Cosmology & Magic",
-    "03 Territories/index.md",
-    "03 Territories/The Mino Isles/Towns & Cities/Rosegate.md",
-    "Geography/Untitled.md"
+    "03 Territories/Forgotten Archipelago",
+    "03 Territories/Vorynthian Confederacy"
   ]
 }
